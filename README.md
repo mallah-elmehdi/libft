@@ -5,8 +5,7 @@
 This project the very first project as a student at 42. The project require to recode a few functions of the C standard library as well as some other utility functions that they will be used during the whole cursus.
 
 The **libft** projet is divided into 2 parts:
-
-> part I
+``part I``
 Recode a set of the libc functions, as defined in their man, they present the same prototype and behaviors as the originals, and these functions are as follows:
 
 • memset
@@ -34,7 +33,7 @@ Recode a set of the libc functions, as defined in their man, they present the sa
 • calloc
 • strdup
 
-> part II
+``part II``
 Set of functions that are either not included in the libc, or included in a different form. Some of these functions can be useful to write Part 1’s functions, and these functions are as follows:
 
 • ft_substr
