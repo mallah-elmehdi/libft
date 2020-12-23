@@ -2,7 +2,7 @@
 
 ### Description
 
-This project the very first project as a student at 42. The project require to recode a few functions of the C standard library as well as some other utility functions that they will be used during the whole cursus.
+This project is the very first project as a student at 42. The project require to recode a few functions of the C standard library as well as some other utility functions that they will be used during the whole cursus.
 
 The **libft** projet is divided into 2 parts:
 
